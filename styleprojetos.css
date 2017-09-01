@@ -17,7 +17,7 @@ body {
 	font-family: 'Encode Sans', sans-serif;
 }
 .CaixaProjetos ul {
-	
+
 }
 
 .CaixaProjetos a{
@@ -31,7 +31,16 @@ body {
 	width: 200px;
 	height: 80px;
 	background: #CF7DEA
-}	
+}
 .cima {
-	background-color: black;
+	background-color: #d3d3d3;
+}
+
+
+a {
+  color:##99bfff;
+  -webkit-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+  /*font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;*/
+  font-family: 'Encode Sans', sans-serif;
 }
