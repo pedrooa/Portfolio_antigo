@@ -1,0 +1,38 @@
+a {
+  color:##99bfff;
+  -webkit-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+  font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+
+}
+
+a:hover {
+  color: #133570;
+}
+
+
+body {
+  background-color:#eff5ff;
+}
+.fontoi{
+  font-family:'Dancing Script', cursive;
+}
+
+.fonthead{
+  font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+
+.height{
+  height:300px;
+}
+
+img {
+    border-radius: 50%;
+    margin: 0px 60px 80px 80px;
+}
+
+
+.height1{
+  height:30px;
+}
