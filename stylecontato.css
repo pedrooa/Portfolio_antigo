@@ -10,18 +10,39 @@ a:hover {
   color: #133570;
 }
 
+.background {
+    background-image: url(http://gdj.graphicdesignjunction.com/wp-content/uploads/2014/05/001+background+pattern+designs.jpg);
+    background-color:#d3d3d3;
+}
 
 .fonthead{
   font-family:"Homemade Apple","Marck Script";
 }
 body {
-    background-color:#d3d3d3;
+    background-color:white;
 }
-.box{
+.box {
     display: inline-block;
     width: 1536px;
-    border: 4px solid brown;
-    text-align: center;
+    border: 4px solid #B2515C;
+    text-align: left;
+}
+.icones {
+    position: absolute;
+    float: right;
+    
+    
 }
 h1 { font-family: 'Playball'}
 h3 { font-family: 'Playball'}
+
+.button {
+    background-color: #B2515C; /* Green */
+    border: solid;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
