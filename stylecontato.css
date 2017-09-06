@@ -2,8 +2,8 @@ a {
   color:##99bfff;
   -webkit-transition:all .3s ease-in-out;
   transition:all .3s ease-in-out;
-  font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-
+  /*font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;*/
+  font-family: 'Encode Sans', sans-serif;
 }
 
 a:hover {
@@ -15,9 +15,58 @@ a:hover {
     background-color:#d3d3d3;
 }
 
-.fonthead{
-  font-family:"Homemade Apple","Marck Script";
+body {
+  background-color:#f7f7f7;
 }
+.fontoi{
+  font-family:'Dancing Script', cursive;
+  color:#124a59;
+}
+
+.fonthead{
+  font-family: 'Encode Sans', sans-serif;
+  color:#124a59;
+}
+<<<<<<< HEAD
+
+
+.height{
+  height:300px;
+}
+
+img {
+    border-radius: 50%;
+    margin: 0px 60px 80px 80px;
+}
+
+
+.height1{
+  height:30px;
+}
+
+
+p{
+  font-family: helvetica;
+  color:#4b4c4c;
+}
+
+li{
+  font-family: helvetica;
+  color:#4b4c4c;
+}
+
+.centraliza{
+  margin-left: 160px
+}
+
+
+.centraliza1{
+  margin-left:600px
+}
+.centraliza2{
+  margin-left: 450px
+}
+=======
 body {
     background-color:white;
 }
@@ -46,3 +95,4 @@ h3 { font-family: 'Playball'}
     display: inline-block;
     font-size: 16px;
 }
+>>>>>>> 49e451ed32c3b7f81019f886b82294025cac1177
