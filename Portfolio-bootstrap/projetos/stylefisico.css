@@ -1,0 +1,36 @@
+.main h1 {
+	text-align: center;
+	color: Black;
+	height: 100px;
+	font-family: 'Encode Sans', sans-serif;
+}
+
+body {
+    background-color: #d3d3d3;
+}
+.main p {
+	text-align: center;
+	color: Black;
+	font-size: 20px;
+	height: 300px;
+	font-family: 'Encode Sans', sans-serif;
+}
+.CaixaProjetos ul {
+	
+}
+
+.CaixaProjetos a{
+	border-style: solid;
+	padding: 10px;
+	text-align: center;
+	list-style: none;
+	font-family: 'Droid Sans Mono', monospace;
+	margin: 10px 10px 110px 110px;
+	float: left;
+	width: 200px;
+	height: 80px;
+	background: #CF7DEA
+}	
+.cima {
+	background-color: black;
+}
