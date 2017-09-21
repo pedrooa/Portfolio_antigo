@@ -72,6 +72,14 @@ header.nav-root{background:inherit}
 }
 #section1{
   background-color:#D6DCE5;
+  padding:0px 0px 30px 10px;
+}
+#sessao2{
+  padding:0px 0px 0px 0px;
+}
+#section2{
+  background-color: #D6DCE5;
+  padding:20px 0px 0px 0px;
 }
 
 
@@ -105,6 +113,26 @@ header.nav-root{background:inherit}
   position:relative;
   background:#fff;
   padding:0;
+}
+@media(min-width:992px) {#habilidades{padding:3em 0}}
+
+#habilidades2{
+  z-index:980;
+  position:relative;
+  background:#D6DCE5;
+  text-align:center;
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  color:#21324C;
+  padding:0px 0px 0px 0px;
+}
+#habilidades2 h2{
+  text-align:center;
+
+  color:#21324C;
+  padding:0px 0px 0px 0px;
+  font-size:250%;
+  font-weight:normal;
+  font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
 @media(min-width:992px) {#habilidades{padding:3em 0}}
 
@@ -156,7 +184,7 @@ header.nav-root{background:inherit}
   text-align:center;
 
   color:#21324C;
-  padding:1em 0;
+  padding:0px 0px 0px 0px;
   font-size:250%;
   font-weight:normal;
   font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
@@ -170,3 +198,19 @@ header.nav-root{background:inherit}
   font-weight:normal;
   font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
+
+.container2 {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 70%;
+  height: 70%;
+}
+
+.ajuste_img{
+  margin-bottom: 10px;
+  padding-bottom: 40px;
+}
+
