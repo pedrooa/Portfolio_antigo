@@ -138,7 +138,8 @@ header.nav-root{background:inherit}
 
 #habilidades #design{
   margin:1em 0;
-  text-align:center;
+  text-align:left;
+  margin-right:170px;
 }
 
 
@@ -190,7 +191,7 @@ header.nav-root{background:inherit}
   font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
 #habilidades h3{
-  text-align:center;
+  text-align:left;
 
   color:#596F91;
   padding:1em 0;
@@ -223,14 +224,14 @@ header.nav-root{background:inherit}
 fieldset {
     margin: 8px;
     border: 2px;
-    padding: 0px 16px 16px 16px;    
+    padding: 0px 16px 16px 16px;
     border-radius: 20px;
     background-color: #d6dce5;
     position: relative;
 }
 
 legend {
-    padding: 2px;    
+    padding: 2px;
 }
 
 .center_div{
@@ -253,9 +254,44 @@ textarea {
 
 
 
+.centraliza {
+  margin-left: 200px;
+  margin-top: 65px;
+}
+.centraliza2 {
+  margin-top: 65px;
+  margin-left: 130px;
+}
+.centraliza_texto{
+  margin-left: 165px;
+}
+.background1{
+  background-color: #E29470;/*laranja escuro*/
+}
+.background2{
+  background-color:#21364B;/*azul escuro */
+}
 
-
-
-=======
->>>>>>> 600b6747c59ab5f23413bf376bf88ee1151d9310
-
+#projetos #collapse10 img{
+  margin-left: 290px;
+  margin-bottom: 50px;
+  margin-top:50px;
+}
+#projetos #collapse1 img{
+  margin-left: 340px;
+  margin-bottom: 50px;
+  margin-top:50px;
+}
+#projetos #collapse11 img{
+  margin-left: 340px;
+  margin-bottom: 50px;
+  margin-top:50px;
+}
+#projetos p{
+  text-align:center;
+  color:#fff;
+  padding:0px 0px 0px 0px;
+  font-size:140%;
+  font-weight:normal;
+  font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
